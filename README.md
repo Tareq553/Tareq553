@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm M Tareq Rahman</h1>
 <h3 align="center">A Data Science enthusiast from Bangladesh</h3>
-/<img src="https://github.com/username/repositoryname/blob/main/profile.jpg" alt="Profile picture">
+/<img src="https://github.com/Tareq553/Tareq553/blob/main/Tareq's_logo.png" alt="Profile picture">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tareq553&label=Profile%20views&color=0e75b6&style=flat" alt="tareq553" /> </p>
 
