@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **m.tareq@sec.ac.bd**
 
-- ⚡ Fun fact **Not Funny At All**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/m tareq rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m tareq rahman" height="30" width="40" /></a>
