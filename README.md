@@ -5,7 +5,7 @@
 
 ### About Me
 
-Hello! I'm M. Tareq Rahman, a dedicated Data Analyst with a passion for harnessing the power of data to drive insights and make informed decisions. I'm always eager to explore the world of machine learning.
+Hello! I'm M. Tareq Rahman, a Data Analyst with a strong passion for both data analysis and machine learning.
 
 ### Skills
 
