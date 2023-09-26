@@ -1,5 +1,5 @@
 <h1 align="center">M. Tareq Rahman</h1>
-<p align="center">Data Analyst | Machine Learning Enthusiast</p>
+<p align="center">Senior Data Analyst | Machine Learning Enthusiast</p>
 
 ---
 
@@ -20,7 +20,7 @@ Here's a quick overview of my skills and expertise:
 
 ### Work Experience
 
-- **Data Analyst at Staff Asia, Sylhet, Bangladesh**
+- **Senior Data Analyst at Staff Asia, Sylhet, Bangladesh**
   - June 8, 2022 - Present
   - At Staff Asia, I've established a robust data pipeline for efficient data extraction and storage. I've also created multiple data dashboards and developed a Chrome extension focused on data protection to ensure the security and privacy of sensitive information. I collaborate closely with a dynamic team of over 200 colleagues, providing valuable insights through data analysis, trend identification, and predictive modeling to guide strategic decision-making processes.
 
