@@ -1,11 +1,11 @@
 <h1 align="center">M. Tareq Rahman</h1>
-<p align="center">Senior Data Analyst | ML, DL and NLP Enthusiast</p>
+<p align="center">Senior Data Analyst | ML, DL, CV and NLP Enthusiast</p>
 
 ---
 
 ### About Me
 
-Hello! I'm M. Tareq Rahman, a Data Analyst with a strong passion for Machine Learning, Deep Learning, and NLP.
+Hello! I'm M. Tareq Rahman, a Data Analyst with a strong passion for Machine Learning, Deep Learning, Computer Vision and NLP.
 
 ### Skills
 
