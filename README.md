@@ -1,4 +1,4 @@
-# M. Tareq Rahman  
+# M Tareq Rahman  
 **Data Analyst | ML, DL, CV, and NLP Enthusiast**  
 
 ---
