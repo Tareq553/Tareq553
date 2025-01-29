@@ -1,53 +1,96 @@
-<h1 align="center">M. Tareq Rahman</h1>
-<p align="center">Senior Data Analyst | ML, DL, CV and NLP Enthusiast</p>
+# M. Tareq Rahman  
+**Senior Data Analyst | ML, DL, CV, and NLP Enthusiast**  
 
 ---
 
-### About Me
+## 👋 About Me  
+Hello! I'm **M. Tareq Rahman**, a passionate **Data Analyst** with expertise in **Machine Learning (ML)**, **Deep Learning (DL)**, **Computer Vision (CV)**, and **Natural Language Processing (NLP)**. I thrive on solving complex problems using data-driven approaches and enjoy building innovative solutions that make an impact.  
 
-Hello! I'm M. Tareq Rahman, a Data Analyst with a strong passion for Machine Learning, Deep Learning, Computer Vision and NLP.
-
-### Skills
-
-Here's a quick overview of my skills and expertise:
-
-- **Languages:** Python, C, C++, SQL
-- **Databases:** MongoDB, MySQL
-- **Mathematics:** Linear Algebra, Probability and Statistics
-- **Frameworks:** Pytorch, TensorFlow, Keras
-- **Tools and Libraries:** Github, Jupyter Notebook, Google Colab, Numpy, Pandas, Seaborn, Matplotlib, Scikit, SciPy
-- **Other Tools:** ChatGPT Prompt, Microsoft Office, Google Workspace, LaTeX
-
-### Work Experience
-
-- **Senior Data Analyst at Staff Asia, Sylhet, Bangladesh**
-  - June 8, 2022 - Present
-  - At Staff Asia, I've established a robust data pipeline for efficient data extraction and storage. I've also created multiple data dashboards and developed a Chrome extension focused on data protection to ensure the security and privacy of sensitive information. I collaborate closely with a dynamic team of over 200 colleagues, providing valuable insights through data analysis, trend identification, and predictive modeling to guide strategic decision-making processes.
-
-### Education
-
-- **Sylhet Engineering College, Sylhet, Bangladesh(March 2016 - March 2021)**
-  - Bachelor of Science in Computer Science and Engineering
-  - Overall CGPA: 3.41/4
-  - Last 4 Semester CGPA: 3.68
-
-
-
-### Research Work
-
-- **Title: Pattern Matching Based Metric for Recommending Ordered Items**
-  - Authors: M. T. Rahman, Z. A. Stephi, M. Rahman
-  - December 2021
-  - [Read the full paper](https://ieeexplore.ieee.org/abstract/document/9718931)
-
-
-
-I'm always open to new opportunities, collaborations, and discussions. Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/m-tareq-rahman/) to connect and explore potential projects or collaborations.
-
-Thanks for stopping by, and let's create data-driven wonders together!
+🔭 **Currently**: Enhancing data pipelines and creating predictive models at **Staff Asia**.  
+🌱 **Learning**: Advanced techniques in **Deep Learning** and **Generative AI**.  
+💬 **Ask me about**: Data analysis, machine learning, or how to build efficient data pipelines.  
+📫 **Reach me**: [LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:youremail@example.com)  
 
 ---
 
-**Note:** This README.md is a living document and will be continuously updated to reflect my latest endeavors and accomplishments.
+## 🛠️ Skills  
 
+### **Programming Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+### **Databases**  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### **Frameworks & Libraries**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### **Tools & Platforms**  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+
+### **Other Skills**  
+- **Mathematics**: Linear Algebra, Probability, and Statistics  
+- **Data Visualization**: Matplotlib, Seaborn, Plotly  
+- **Productivity Tools**: Microsoft Office, Google Workspace, ChatGPT Prompt Engineering  
+
+---
+
+## 💼 Work Experience  
+
+### **Senior Data Analyst**  
+**Staff Asia, Sylhet, Bangladesh**  
+*June 2022 – Present*  
+- Established a robust **data pipeline** for efficient data extraction and storage.  
+- Developed **data dashboards** to visualize key metrics and trends.  
+- Created a **Chrome extension** focused on data protection to secure sensitive information.  
+- Collaborated with a team of 200+ colleagues, providing **data-driven insights** for strategic decision-making.  
+- Conducted **predictive modeling** to identify trends and forecast outcomes.  
+
+---
+
+## 🎓 Education  
+
+### **Bachelor of Science in Computer Science and Engineering**  
+**Sylhet Engineering College, Sylhet, Bangladesh**  
+*March 2016 – March 2021*  
+- **Overall CGPA**: 3.41/4.00  
+- **Last 4 Semesters CGPA**: 3.68/4.00  
+
+---
+
+## 📚 Research Work  
+
+### **Pattern Matching Based Metric for Recommending Ordered Items**  
+*December 2021*  
+- **Authors**: M. T. Rahman, Z. A. Stephi, M. Rahman  
+- **Description**: Developed a novel metric for recommending ordered items using pattern matching techniques.  
+- **Read the full paper**: [Link to Paper](#)  
+
+---
+
+## 📈 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
+
+---
+
+## 🤝 Let's Connect  
+I'm always open to new opportunities, collaborations, and discussions. Feel free to reach out!  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)  
+
+---
+
+⭐️ Thanks for visiting my profile! Let's create **data-driven wonders** together.  
