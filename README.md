@@ -3,17 +3,17 @@
 
 ---
 
-## 👋 About Me  
+## About Me  
 Hello! I'm **M. Tareq Rahman**, a passionate **Data Analyst** with expertise in **Machine Learning (ML)** and **Deep Learning (DL)**. I thrive on solving complex problems using data-driven approaches and enjoy building innovative solutions that make an impact.  
 
-🔭 **Currently**: Working as a data analyst at **Staff Asia**.  
-🌱 **Learning**: Advanced techniques in **Deep Learning** and **Natural Language Processing**.  
-💬 **Ask me about**: Data analysis, machine learning, or how to build efficient data pipelines.  
-📫 **Reach me**: [LinkedIn](https://www.linkedin.com/in/m-tareq-rahman/) | [Email](mailto:m.tareq@sec.ac.bd)  
+ **Currently**: Working as a data analyst at **Staff Asia**.  
+ **Learning**: Advanced techniques in **Deep Learning** and **Natural Language Processing**.  
+ **Ask me about**: Data analysis, machine learning, or how to build efficient data pipelines.  
+ **Reach me**: [LinkedIn](https://www.linkedin.com/in/m-tareq-rahman/) | [Email](mailto:m.tareq@sec.ac.bd)  
 
 ---
 
-## 🛠️ Skills  
+## Skills  
 
 ### **Programming Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -44,7 +44,7 @@ Hello! I'm **M. Tareq Rahman**, a passionate **Data Analyst** with expertise in 
 
 ---
 
-## 💼 Work Experience  
+## Work Experience  
 
 ### **Senior Data Analyst**  
 **Staff Asia, Sylhet, Bangladesh**  
@@ -52,7 +52,7 @@ Hello! I'm **M. Tareq Rahman**, a passionate **Data Analyst** with expertise in 
 
 ---
 
-## 🎓 Education  
+## Education  
 
 ### **Bachelor of Science in Computer Science and Engineering**  
 **Sylhet Engineering College, Sylhet, Bangladesh**  
@@ -62,7 +62,7 @@ Hello! I'm **M. Tareq Rahman**, a passionate **Data Analyst** with expertise in 
 
 ---
 
-## 📚 Research Work  
+## Research Work  
 
 ### **Pattern Matching Based Metric for Recommending Ordered Items**  
 *December 2021*  
@@ -72,4 +72,4 @@ Hello! I'm **M. Tareq Rahman**, a passionate **Data Analyst** with expertise in 
 
 ---
 
-⭐️ Thanks for visiting my profile! Let's create **data-driven wonders** together.  
+Thanks for visiting my profile! Let's create **data-driven wonders** together.  
