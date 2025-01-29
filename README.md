@@ -68,7 +68,7 @@ Hello! I'm **M. Tareq Rahman**, a passionate **Data Analyst** with expertise in 
 *December 2021*  
 - **Authors**: M. T. Rahman, Z. A. Stephi, M. Rahman  
 - **Description**: Developed a novel metric for recommending ordered items using pattern matching techniques.  
-- **Read the full paper**: [Read the full paper](https://ieeexplore.ieee.org/abstract/document/9718931)
+- **Read the full paper**: [Pattern Matching Based Metric for Recommending Ordered Items](https://ieeexplore.ieee.org/abstract/document/9718931)
 
 ---
 
