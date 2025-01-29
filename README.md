@@ -4,12 +4,12 @@
 ---
 
 ## 👋 About Me  
-Hello! I'm **M. Tareq Rahman**, a passionate **Data Analyst** with expertise in **Machine Learning (ML)**, **Deep Learning (DL)**, **Computer Vision (CV)**, and **Natural Language Processing (NLP)**. I thrive on solving complex problems using data-driven approaches and enjoy building innovative solutions that make an impact.  
+Hello! I'm **M. Tareq Rahman**, a passionate **Data Analyst** with expertise in **Machine Learning (ML)** and **Deep Learning (DL)**. I thrive on solving complex problems using data-driven approaches and enjoy building innovative solutions that make an impact.  
 
 🔭 **Currently**: Working as a data analyst at **Staff Asia**.  
 🌱 **Learning**: Advanced techniques in **Deep Learning** and **Natural Language Processing**.  
 💬 **Ask me about**: Data analysis, machine learning, or how to build efficient data pipelines.  
-📫 **Reach me**: [LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:youremail@example.com)  
+📫 **Reach me**: [LinkedIn](https://www.linkedin.com/in/m-tareq-rahman/) | [Email](mailto:m.tareq@sec.ac.bd)  
 
 ---
 
@@ -48,12 +48,7 @@ Hello! I'm **M. Tareq Rahman**, a passionate **Data Analyst** with expertise in 
 
 ### **Senior Data Analyst**  
 **Staff Asia, Sylhet, Bangladesh**  
-*June 2022 – Present*  
-- Established a robust **data pipeline** for efficient data extraction and storage.  
-- Developed **data dashboards** to visualize key metrics and trends.  
-- Created a **Chrome extension** focused on data protection to secure sensitive information.  
-- Collaborated with a team of 200+ colleagues, providing **data-driven insights** for strategic decision-making.  
-- Conducted **predictive modeling** to identify trends and forecast outcomes.  
+*June 2022 – Present* 
 
 ---
 
@@ -73,7 +68,7 @@ Hello! I'm **M. Tareq Rahman**, a passionate **Data Analyst** with expertise in 
 *December 2021*  
 - **Authors**: M. T. Rahman, Z. A. Stephi, M. Rahman  
 - **Description**: Developed a novel metric for recommending ordered items using pattern matching techniques.  
-- **Read the full paper**: [Link to Paper](#)  
+- **Read the full paper**: [Read the full paper](https://ieeexplore.ieee.org/abstract/document/9718931)
 
 ---
 
