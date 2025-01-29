@@ -1,13 +1,13 @@
 # M. Tareq Rahman  
-**Senior Data Analyst | ML, DL, CV, and NLP Enthusiast**  
+**Data Analyst | ML, DL, CV, and NLP Enthusiast**  
 
 ---
 
 ## 👋 About Me  
 Hello! I'm **M. Tareq Rahman**, a passionate **Data Analyst** with expertise in **Machine Learning (ML)**, **Deep Learning (DL)**, **Computer Vision (CV)**, and **Natural Language Processing (NLP)**. I thrive on solving complex problems using data-driven approaches and enjoy building innovative solutions that make an impact.  
 
-🔭 **Currently**: Enhancing data pipelines and creating predictive models at **Staff Asia**.  
-🌱 **Learning**: Advanced techniques in **Deep Learning** and **Generative AI**.  
+🔭 **Currently**: Working as a data analyst at **Staff Asia**.  
+🌱 **Learning**: Advanced techniques in **Deep Learning** and **Natural Language Processing**.  
 💬 **Ask me about**: Data analysis, machine learning, or how to build efficient data pipelines.  
 📫 **Reach me**: [LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:youremail@example.com)  
 
@@ -74,22 +74,6 @@ Hello! I'm **M. Tareq Rahman**, a passionate **Data Analyst** with expertise in 
 - **Authors**: M. T. Rahman, Z. A. Stephi, M. Rahman  
 - **Description**: Developed a novel metric for recommending ordered items using pattern matching techniques.  
 - **Read the full paper**: [Link to Paper](#)  
-
----
-
-## 📈 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
-
----
-
-## 🤝 Let's Connect  
-I'm always open to new opportunities, collaborations, and discussions. Feel free to reach out!  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)  
 
 ---
 
